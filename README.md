@@ -1,6 +1,6 @@
 ## IntroNetworkAnalysis
 
-This is a repository for the **Introduction to Network Analysis** course provided by [**Brian Wong**](https://www.ed.ac.uk/profile/tsz-ho-wong) for the CDCS. Within the repository there are files with sample datasets and a guide to building datasets. It will be updated before each section.
+This is a repository for the [**Introduction to Network Analysis**](https://www.cdcs.ed.ac.uk/events/intro-to-network-analysis-gephi) course provided by [**Brian Wong**](https://www.ed.ac.uk/profile/tsz-ho-wong) for the CDCS. Within the repository there are files with sample datasets and a guide to building datasets. It will be updated before each section.
 
 ## IMPORTANT: Things to Do Before the First Class 
 
@@ -14,9 +14,6 @@ After installing Gephi, please also install the **Gephi plugins**. Go to the Too
 If you have any problems downloading Gephi, please contact Brian at twong4@ed.ac.uk.
 
 Please also bring a **computer mouse**, as you will not be able to navigate Gephi without it.
-
-## Course Outline
-https://www.cdcs.ed.ac.uk/events/intro-to-network-analysis-gephi
 
 ## Venue
 **Digital Scholarship Centre**, 6th floor, Main Library, University of Edinburgh 
