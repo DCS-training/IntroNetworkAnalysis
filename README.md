@@ -16,7 +16,7 @@ If you have any problems downloading Gephi, please contact Brian at twong4@ed.ac
 Please also bring a **computer mouse**, as you will not be able to navigate Gephi without it.
 
 ## Venue
-**Digital Scholarship Centre**, 6th floor, Main Library, University of Edinburgh 
+**Room 4.35**, 4th floor, Edinburgh Futures Institute, University of Edinburgh 
 
 ## Schedule
 
