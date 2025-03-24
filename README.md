@@ -20,25 +20,25 @@ Please also bring a **computer mouse**, as you will not be able to navigate Geph
 
 ## Schedule
 
-**Session 1: 19 March 2024**
+**Session 1: 25 March 2025**
 
-- 10:00-10:10 Introduction
-- 10:10-10:40 A brief introduction to the basic concepts of Gephi
-- 10:40-10:50 Break 
-- 10:50-11:20 Hands-on experience of social network analysis in Gephi
-- 11:20-11:30 Break
-- 11:30-11:50 Introduction to preparing data for Gephi in Excel 
-- 11:50-12:00 Q&A and wrapping up 
+- 14:00-14:10 Introduction
+- 14:10-14:40 A brief introduction to the basic concepts of Gephi
+- 14:40-14:50 Break 
+- 14:50-15:20 Hands-on experience of social network analysis in Gephi
+- 15:20-15:30 Break
+- 15:30-15:50 Introduction to preparing data for Gephi in Excel 
+- 15:50-16:00 Q&A and wrapping up 
 
-**Session 2: 26 March 2024**
+**Session 2: 1 April 2025**
 
-- 10:00-10:30 Introduction to Gephi’s plugins (GeoLayout and ExportToEarth) 
-- 10:30-10:40 Break 
-- 10:40-11:10 Hands-on experience of Gephi’s plugins 
-- 11:10-11:20 Break
-- 11:20-12:00 Round of presentations by attendees for their own project and guidance on building their own dataset
+- 14:00-14:30 Introduction to Gephi’s plugins (GeoLayout and ExportToEarth) 
+- 14:30-14:40 Break 
+- 14:40-15:10 Hands-on experience of Gephi’s plugins 
+- 15:10-15:20 Break
+- 15:20-16:00 Round of presentations by attendees for their own project and guidance on building their own dataset
 
-**Session 3: 2 April 2024**
+**Session 3: 8 April 2025**
 
 - Attendees apply their own dataset in Gephi
 
