@@ -32,11 +32,12 @@ Please also bring a **computer mouse**, as you will not be able to navigate Geph
 
 **Session 2: 1 April 2025**
 
-- 14:00-14:30 Introduction to Gephi’s plugins (GeoLayout and ExportToEarth) 
-- 14:30-14:40 Break 
+- 14:00-14:30 Export and Save Gephi's Networks 
+- 14:30-14:40 Introduction to CBDB and Gephi’s plugins (GeoLayout and ExportToEarth) 
 - 14:40-15:10 Hands-on experience of Gephi’s plugins 
 - 15:10-15:20 Break
-- 15:20-16:00 Round of presentations by attendees for their own project and guidance on building their own dataset
+- 15:20-15:50 Round of presentations by attendees for their own project and guidance on building their own dataset
+- 15:50-16:00 Q&A and wrapping up 
 
 **Session 3: 8 April 2025**
 
