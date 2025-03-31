@@ -32,7 +32,7 @@ Please also bring a **computer mouse**, as you will not be able to navigate Geph
 
 **Session 2: 1 April 2025**
 
-- 14:00-14:30 Export and Save Gephi's Networks 
+- 14:00-14:30 Export and save Gephi's networks 
 - 14:30-14:40 Introduction to CBDB and Gephi’s plugins (GeoLayout and ExportToEarth) 
 - 14:40-15:10 Hands-on experience of Gephi’s plugins 
 - 15:10-15:20 Break
