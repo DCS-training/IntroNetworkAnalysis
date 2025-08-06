@@ -1,0 +1,104 @@
+﻿nodedef> name VARCHAR,label VARCHAR,labelvisible BOOLEAN,style INT,pinyin VARCHAR(50),nodedist INT,indexyear INT,dynasty_code INT,dynasty VARCHAR,dynasty_chn VARCHAR,sex VARCHAR(1),addr_chn VARCHAR,addr_name VARCHAR,latitude DOUBLE,longitude DOUBLE
+53989,鄭蘭孫,true,4,Zheng Lansun,2,1819, 20,Qing,清,F,仁和,Renhe, 30.294124603, 120.16862488
+54000,楊昌濬,true,4,Yang Changjun,1,1827, 20,Qing,清,M,湘鄉,Xiangxiang, 27.737247467, 112.51874542
+58130,劉典,true,4,Liu Dian,1,1819, 20,Qing,清,M,寧鄉,Ningxiang, 28.259300232, 112.55047607
+58941,李續宜,true,4,Li Xuyi,1,1823, 20,Qing,清,M,湘鄉,Xiangxiang, 27.737247467, 112.51874542
+61438,郭嵩燾,true,4,Guo Songtao,1,1818, 20,Qing,清,M,湘陰,Xiangyin, 28.676210403, 112.8802948
+65077,羅正鈞,true,4,Luo Zhengjun,2,1855, 21,Republic of China,中華民國,M,湘潭,Xiangtan, 27.87269783, 112.91126251
+65645,李續賓,true,4,Li Xubin,1,1818, 20,Qing,清,M,湘鄉,Xiangxiang, 27.737247467, 112.51874542
+65979,羅澤南,true,4,Luo Zenan,0,1807, 20,Qing,清,M,湘鄉,Xiangxiang, 27.737247467, 112.51874542
+66040,江忠源,true,4,Jiang Zhongyuan,2,1812, 20,Qing,清,M,新寧,Xinning, 26.433082581, 110.84442902
+69460,王錱,true,4,Wang Zhen,1,1825, 20,Qing,清,M,湘鄉,Xiangxiang, 27.737247467, 112.51874542
+74857,劉蕃,true,4,Liu Fan,1,1831, 20,Qing,清,M,湘鄉,Xiangxiang, 27.737247467, 112.51874542
+82885,羅汝懷,true,4,Luo Ruhuai,2,1804, 20,Qing,清,M,湘潭,Xiangtan, 27.87269783, 112.91126251
+84898,鍾近衡,true,4,Zhong Jinheng,1,1819, 20,Qing,清,M,湘鄉,Xiangxiang, 27.737247467, 112.51874542
+511356,易良幹,true,4,Yi Lianggan,1,-2000, 20,Qing,清,M,,, 0, 0
+511411,李杏春,true,4,Li Xingchun,1,-2000, 20,Qing,清,M,,, 0, 0
+511608,王嶽峯,true,4,Wang Yuefeng,1,-2000, 20,Qing,清,M,,, 0, 0
+511629,王金玨,true,4,Wang Jinjue,1,-2000, 20,Qing,清,M,,, 0, 0
+511695,羅信東,true,4,Luo Xindong,1,-2000, 20,Qing,清,M,,, 0, 0
+511701,羅鎮南,true,4,Luo Zhennan,1,-2000, 20,Qing,清,M,,, 0, 0
+511815,謝邦翰,true,4,Xie Banghan,1,-2000, 20,Qing,清,M,,, 0, 0
+511884,鄧寶衡,true,4,Deng Baoheng,2,-2000, 20,Qing,清,M,,, 0, 0
+511918,鍾楚池,true,4,Zhong Chuchi,1,-2000, 20,Qing,清,M,,, 0, 0
+516472,周志學,true,4,Zhou Zhixue,2,-2000, 20,Qing,清,M,,, 0, 0
+516473,賀香漪,true,4,He Xiangyi,2,-2000, 20,Qing,清,M,,, 0, 0
+516474,劉本鐸,true,4,Liu Benduo,2,1849, 20,Qing,清,M,,, 0, 0
+516475,劉本鑑,true,4,Liu Benjian,2,1849, 20,Qing,清,M,,, 0, 0
+516476,劉宜潛,true,4,Liu Yiqian,2,1879, 20,Qing,清,M,,, 0, 0
+517056,楊瀚橿,true,4,Yang Hanjiang,2,1857, 20,Qing,清,M,,, 0, 0
+518058,李光映,true,4,Li Guangying,2,1853, 20,Qing,清,M,,, 0, 0
+518059,李光英,true,4,Li Guangying,2,1853, 20,Qing,清,M,,, 0, 0
+520175,郭本含,true,4,Guo Benhan,2,1878, 20,Qing,清,M,,, 0, 0
+520176,郭本謀,true,4,Guo Benmou,2,1878, 20,Qing,清,M,,, 0, 0
+520177,郭立瑛,true,4,Guo Liying,2,1848, 20,Qing,清,M,,, 0, 0
+520178,郭道伊,true,4,Guo Daoyi,2,-2000, 20,Qing,清,M,,, 0, 0
+520179,郭道傳,true,4,Guo Daochuan,2,-2000, 20,Qing,清,M,,, 0, 0
+522060,李本桂,true,4,Li Bengui,2,-2000, 20,Qing,清,M,,, 0, 0
+522061,李白詩,true,4,Li Baishi,2,-2000, 20,Qing,清,M,,, 0, 0
+522062,李光令,true,4,Li Guangling,2,1848, 20,Qing,清,M,,, 0, 0
+522063,李前普,true,4,Li Qianpu,2,1878, 20,Qing,清,M,,, 0, 0
+522064,李登勝,true,4,Li Dengsheng,2,1788, 20,Qing,清,M,,, 0, 0
+522065,李詩白,true,4,Li Shibai,2,-2000, 20,Qing,清,M,,, 0, 0
+522908,王開仍,true,4,Wang Kaireng,1,-2000, 20,Qing,清,M,,, 0, 0
+522909,羅日阮,true,4,Luo Riruan,1,-2000, 20,Qing,清,M,,, 0, 0
+522910,羅日院,true,4,Luo Riyuan,1,-2000, 20,Qing,清,M,,, 0, 0
+522911,羅兆作,true,4,Luo Zhaozuo,1,1837, 20,Qing,清,M,,, 0, 0
+522912,羅延祚,true,4,Luo Yanzuo,1,-2000, 20,Qing,清,M,,, 0, 0
+522913,羅長耿,true,4,Luo Zhanggeng,1,1867, 20,Qing,清,M,,, 0, 0
+522914,羅拱詩,true,4,Luo Gongshi,1,-2000, 20,Qing,清,M,,, 0, 0
+522915,羅若父,true,4,Luo Ruofu,1,-2000, 20,Qing,清,M,,, 0, 0
+522916,羅嘉旦,true,4,Luo Jiadan,1,1777, 20,Qing,清,M,,, 0, 0
+527007,王詩正,true,4,Wang Shizheng,2,1855, 20,Qing,清,M,,, 0, 0
+edgedef> node1 VARCHAR,node2 VARCHAR,label VARCHAR,edge_desc VARCHAR(50),edgetype VARCHAR(1)
+54000,53989,"為Y所著書作序","Prefaced book by",N
+54000,517056,"子","S",K
+58130,511884,"門客為Y","Retainer (客) was",N
+58130,516472,"女婿","DH",K
+58130,516473,"女婿","DH",K
+58130,516474,"子","S",K
+58130,516475,"子","S",K
+58130,516476,"孫","SS",K
+58941,518058,"子","S",K
+58941,518059,"子","S",K
+61438,65077,"學生為Y","Student was",N
+61438,66040,"友","Friend of",N
+61438,82885,"為Y作行狀","Wrote Biographical sketch (xingzhuang) for",N
+61438,520175,"孫","SS",K
+61438,520176,"孫","SS",K
+61438,520177,"子","S",K
+61438,520178,"曾孫; 重孫","SSS",K
+61438,520179,"曾孫; 重孫","SSS",K
+65645,522060,"曾祖","FFF",K
+65645,522061,"祖父","FF",K
+65645,522062,"子","S",K
+65645,522063,"孫","SS",K
+65645,522064,"父","F",K
+65645,522065,"祖父","FF",K
+65979,54000,"門人為Y","Menren was",N
+65979,58130,"友","Friend of",N
+65979,58130,"門人為Y","Menren was",N
+65979,58941,"門人為Y","Menren was",N
+65979,61438,"友","Friend of",N
+65979,65645,"學生為Y","Student was",N
+65979,69460,"學生為Y","Student was",N
+65979,74857,"門人為Y","Menren was",N
+65979,84898,"門人為Y","Menren was",N
+65979,511356,"門人為Y","Menren was",N
+65979,511411,"門人為Y","Menren was",N
+65979,511608,"門人為Y","Menren was",N
+65979,511629,"門人為Y","Menren was",N
+65979,511695,"門人為Y","Menren was",N
+65979,511701,"門人為Y","Menren was",N
+65979,511815,"門人為Y","Menren was",N
+65979,511918,"門人為Y","Menren was",N
+65979,522908,"女婿","DH",K
+65979,522909,"曾祖","FFF",K
+65979,522910,"曾祖","FFF",K
+65979,522911,"子","S",K
+65979,522912,"曾孫; 重孫","SSS",K
+65979,522913,"孫","SS",K
+65979,522914,"祖父","FF",K
+65979,522915,"祖父","FF",K
+65979,522916,"父","F",K
+69460,527007,"子","S",K

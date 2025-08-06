@@ -1,0 +1,127 @@
+﻿nodedef> name VARCHAR,label VARCHAR,labelvisible BOOLEAN,style INT,pinyin VARCHAR(50),nodedist INT,indexyear INT,dynasty_code INT,dynasty VARCHAR,dynasty_chn VARCHAR,sex VARCHAR(1),addr_chn VARCHAR,addr_name VARCHAR,latitude DOUBLE,longitude DOUBLE
+30235,丁丙,true,4,Ding Bing,2,1831, 20,Qing,清,M,錢塘,Qiantang, 30.294124603, 120.16862488
+30237,俞樾,true,4,Yu Yue,1,1821, 20,Qing,清,M,德清,Deqing, 30.553133011, 120.08480072
+30238,馮桂芬,true,4,Feng Guifen,2,1809, 20,Qing,清,M,吳縣,Wu Xian, 31.31271, 120.618622
+34344,曾國藩,true,4,Zeng Guofan,2,1811, 20,Qing,清,M,湘鄉,Xiangxiang, 27.737247467, 112.51874542
+35218,譚獻,true,4,Tan Xian,2,1832, 20,Qing,清,M,仁和,Renhe, 30.294124603, 120.16862488
+35219,袁昶,true,4,Yuan Chang,2,1846, 20,Qing,清,M,桐廬,Tonglu, 29.802457809, 119.66493988
+53989,鄭蘭孫,true,4,Zheng Lansun,2,1819, 20,Qing,清,F,仁和,Renhe, 30.294124603, 120.16862488
+53994,俞繡孫,true,4,Yu Xiusun,2,1849, 20,Qing,清,F,德清,Deqing, 30.553133011, 120.08480072
+54540,應瑩,true,4,Ying Ying,2,1821, 20,Qing,清,M,,, 0, 0
+55547,曾彥季,true,4,Zeng Yanji,2,1843, 20,Qing,清,F,,, 0, 0
+55574,吳慶坻,true,4,Wu Qingdi,2,1848, 21,Republic of China,中華民國,M,錢塘,Qiantang, 30.294124603, 120.16862488
+55631,潘祖蔭,true,4,Pan Zuyin,2,1830, 20,Qing,清,M,吳縣,Wu Xian, 31.31271, 120.618622
+56106,俞慶曾,true,4,Yu Qingzeng,2,1865, 20,Qing,清,F,德清,Deqing, 30.553133011, 120.08480072
+58024,衛榮光,true,4,Wei Rongguang,2,1824, 20,Qing,清,M,新鄉,Xinxiang, 35.309940338, 113.86824799
+58515,彭玉麟,true,4,Peng Yulin,0,1815, 20,Qing,清,M,衡陽,Hengyang, 26.90161705, 112.59703827
+58961,李鴻章,true,4,Li Hongzhang,2,1823, 20,Qing,清,M,合肥,Hefei, 31.864456177, 117.27645874
+58999,鍾依三多,true,4,Zhongyi Sanduo,2,1869, 21,Republic of China,中華民國,M,蒙古正白旗,Mongol Plain White Banner,0.0,0.0
+60244,朱一新,true,4,Zhu Yixin,2,1846, 20,Qing,清,M,義烏,Yiwu, 29.300087, 120.071625
+60516,樊恭煦,true,4,Fan Gongxu,2,1843, 20,Qing,清,M,仁和,Renhe, 30.294124603, 120.16862488
+61375,徐樹銘,true,4,Xu Shuming,2,1824, 20,Qing,清,M,長沙,Changsha, 28.198198318, 112.97813416
+61653,吳大澂,true,4,Wu Dacheng,2,1835, 20,Qing,清,M,吳縣,Wu Xian, 31.31271, 120.618622
+65617,李元度,true,4,Li Yuandu,2,1821, 20,Qing,清,M,平江,Pingjiang, 28.709812164, 113.57494354
+66589,王之春,true,4,Wang Zhichun,1,1842, 20,Qing,清,M,清泉,Qingquan, 26.90161705, 112.59703827
+66723,楊宜治,true,4,Yang Yizhi,2,1846, 20,Qing,清,M,成都,Chengdu, 30.650384903, 104.0779953
+66725,陳璚,true,4,Chen Qiong,2,1827, 20,Qing,清,M,貴縣,Gui Xian, 23.099092484, 109.60844421
+71404,王仁俊,true,4,Wang Renjun,2,1866, 21,Republic of China,中華民國,M,吳縣,Wu Xian, 31.31271, 120.618622
+73027,盧德儀,true,4,Lu Deyi,2,1820, 20,Qing,清,F,黃巖,Huangyan, 28.642612457, 121.25835419
+75227,劉恭冕,true,4,Liu Gongmian,2,1824, 20,Qing,清,M,寶應,Baoying, 33.235946655, 119.31004333
+83495,周星詒,true,4,Zhou Xingdai,2,1833, 20,Qing,清,M,祥符,Xiangfu, 34.785477, 114.34333
+85089,俞奎垣,true,4,Yu Kuiyuan,2,1826, 20,Qing,清,M,大興,Daxing, 39.931427002, 116.36800385
+85173,施補華,true,4,Shi Buhua,2,1836, 20,Qing,清,M,烏程,Wucheng, 30.864963531, 120.09931183
+88101,黃以周,true,4,Huang Yizhou,2,1828, 20,Qing,清,M,定海,Dinghai, 30.015159607, 122.10109711
+91685,戴望,true,4,Dai Wang,2,1837, 20,Qing,清,M,德清,Deqing, 30.553133011, 120.08480072
+119312,姚文玉,true,4,Yao Wenyu,2,1820, 20,Qing,清,F,,, 0, 0
+120222,戴青,true,4,Dai Qing,2,1822, 20,Qing,清,F,,, 0, 0
+120955,許郊,true,4,Xu Jiao,2,-2000, 20,Qing,清,M,,, 0, 0
+121770,庫勒雅齡文,true,4,Kuleya Lingwen,1,-2000, 20,Qing,清,F,滿洲八旗,Manchu bannerman,0.0,0.0
+121772,烏佳忠善亭,true,4,Wujia Zhongshanting,2,-2000, 20,Qing,清,M,,, 0, 0
+123415,張佩蘭,true,4,Zhang Peilan,2,-2000, 19,Ming,明,F,崑山,Kunshan, 31.386108398, 120.94823456
+136148,汪氏(孫炳奎妻),true,4,Wang Shi(Wife of Sun Bingkui),2,1844, 20,Qing,清,F,秀水,Xiushui, 30.767469406, 120.75320435
+511188,孫殿齡,true,4,Sun Dianling,2,-2000, 20,Qing,清,M,,, 0, 0
+511493,楢原陳政,true,4,You Yuanchenzheng,2,-2000, 20,Qing,清,M,,, 0, 0
+517191,彭才昱,true,4,Peng Caiyu,1,-2000, 20,Qing,清,M,,, 0, 0
+517192,彭永釗,true,4,Peng Yongzhao,1,1845, 20,Qing,清,M,,, 0, 0
+517193,彭玉麒,true,4,Peng Yuqi,1,1817, 20,Qing,清,M,,, 0, 0
+517194,彭見綬,true,4,Peng Jianshou,1,1875, 20,Qing,清,M,,, 0, 0
+517195,彭見綷,true,4,Peng Jiancui,1,1875, 20,Qing,清,M,,, 0, 0
+517196,彭啟象,true,4,Peng Qixiang,1,-2000, 20,Qing,清,M,,, 0, 0
+517197,彭鳴九,true,4,Peng Mingjiu,1,1785, 20,Qing,清,M,,, 0, 0
+522617,俞廷鑣,true,4,Yu Tingbiao,2,-2000, 20,Qing,清,M,,, 0, 0
+522618,俞祖仁,true,4,Yu Zuren,2,1851, 20,Qing,清,M,,, 0, 0
+522619,俞陛云,true,4,Yu Biyun,2,1881, 20,Qing,清,M,,, 0, 0
+522620,俞紹萊,true,4,Yu Shaolai,2,1851, 20,Qing,清,M,,, 0, 0
+522621,俞琇孫,true,4,Yu Xiusun,2,-2000, 20,Qing,清,M,,, 0, 0
+522622,俞銘衡,true,4,Yu Mingheng,2,-2000, 20,Qing,清,M,,, 0, 0
+522623,彭見貞,true,4,Peng Jianzhen,2,-2000, 20,Qing,清,M,,, 0, 0
+edgedef> node1 VARCHAR,node2 VARCHAR,label VARCHAR,edge_desc VARCHAR(50),edgetype VARCHAR(1)
+30235,120955,"贈詩、文","Presented literary composition as gift to",N
+30237,30235,"為Y作傳","Biographer of",N
+30237,30238,"友","Friend of",N
+30237,34344,"友","Friend of",N
+30237,34344,"為Y之弟子","Disciple (dizi) of",N
+30237,35218,"學生為Y","Student was",N
+30237,35219,"學生為Y","Student was",N
+30237,53989,"為Y所著書作序","Prefaced book by",N
+30237,53994,"為Y所著書作序","Prefaced book by",N
+30237,53994,"女兒","D",K
+30237,54540,"為Y所著書作序","Prefaced book by",N
+30237,55547,"為Y所著書作序","Prefaced book by",N
+30237,55574,"友","Friend of",N
+30237,55574,"學生為Y","Student was",N
+30237,55631,"友","Friend of",N
+30237,56106,"孫女","SD",K
+30237,58961,"友","Friend of",N
+30237,58999,"學生為Y","Student was",N
+30237,60244,"學生為Y","Student was",N
+30237,61375,"友","Friend of",N
+30237,61653,"學生為Y","Student was",N
+30237,66589,"友","Friend of",N
+30237,66725,"友","Friend of",N
+30237,71404,"學生為Y","Student was",N
+30237,73027,"為Y所著書作序","Prefaced book by",N
+30237,75227,"學生為Y","Student was",N
+30237,83495,"友","Friend of",N
+30237,85089,"同僚","Served in the same bureau with",N
+30237,85173,"學生為Y","Student was",N
+30237,88101,"學生為Y","Student was",N
+30237,91685,"學生為Y","Student was",N
+30237,119312,"妻子","W",K
+30237,120222,"為Y作墓誌銘","Epitaph written for",N
+30237,120955,"為Y所著書作序","Prefaced book by",N
+30237,123415,"相唱和","Poems composed with",N
+30237,123415,"為Y所作詩文作序","wrote preface for the literary works of",N
+30237,136148,"為Y作墓誌銘","Epitaph written for",N
+30237,511188,"友","Friend of",N
+30237,511493,"學生為Y","Student was",N
+30237,522617,"祖父","FF",K
+30237,522618,"子","S",K
+30237,522619,"孫","SS",K
+30237,522620,"子","S",K
+30237,522621,"女兒","D",K
+30237,522622,"曾孫; 重孫","SSS",K
+30237,522623,"孫女婿","SDH",K
+35218,35219,"為Y作墓誌銘","Epitaph written for",N
+53994,53989,"為Y所著書作序","Prefaced book by",N
+53994,56106,"從女;姪女","BD",K
+53994,119312,"母","M",K
+58515,30237,"友","Friend of",N
+58515,66589,"友","Friend of",N
+58515,121770,"為Y所作詩文作序","wrote preface for the literary works of",N
+58515,517191,"曾祖","FFF",K
+58515,517192,"子","S",K
+58515,517193,"弟","B-",K
+58515,517194,"孫","SS",K
+58515,517195,"孫","SS",K
+58515,517196,"祖父","FF",K
+58515,517197,"父","F",K
+58961,34344,"為Y之學生","Student of",N
+58961,34344,"為Y之弟子","Disciple (dizi) of",N
+61375,66725,"為Y之世交父執","Family friend to",N
+61653,30238,"為Y之弟子","Disciple (dizi) of",N
+66589,58024,"友","Friend of",N
+66589,60516,"友","Friend of",N
+66589,65617,"友","Friend of",N
+66589,66723,"同僚","Served in the same bureau with",N
+121770,121772,"丈夫","H",K
