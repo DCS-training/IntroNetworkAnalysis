@@ -1,6 +1,6 @@
 ## IntroNetworkAnalysis
 
-This is a repository for the [**Introduction to Network Analysis**](https://www.cdcs.ed.ac.uk/events/intro-to-network-analysis-gephi) course provided by [**Brian Wong**](https://www.ed.ac.uk/profile/tsz-ho-wong) for the CDCS. Within the repository, there are files with sample datasets and a guide to building datasets. It will be updated before each section.
+This is a repository for the [**Network Analysis from Scratch: Intro to Gephi**](https://www.cdcs.ed.ac.uk/events/intro-to-network-analysis-gephi) course provided by [**Brian Wong**](https://www.ed.ac.uk/profile/tsz-ho-wong) for the CDCS. Within the repository, there are files with sample datasets and a guide to building datasets. It will be updated before each section.
 
 
 
@@ -22,7 +22,7 @@ Please also bring a **computer mouse**, as you will not be able to navigate Geph
 
 ## Schedule
 
-**Session 1: 25 March 2025**
+**Session 1: 6 October 2025**
 
 - 14:00-14:10 Introduction
 - 14:10-14:40 A brief introduction to the basic concepts of Gephi
@@ -32,18 +32,20 @@ Please also bring a **computer mouse**, as you will not be able to navigate Geph
 - 15:30-15:50 Introduction to preparing data for Gephi in Excel 
 - 15:50-16:00 Q&A and wrapping up 
 
-**Session 2: 1 April 2025**
+**Session 2: 13 October 2025**
 
-- 14:00-14:30 Export and save Gephi's networks 
-- 14:30-14:40 Introduction to CBDB and Gephi’s plugins (GeoLayout and ExportToEarth) 
-- 14:40-15:10 Hands-on experience of Gephi’s plugins 
-- 15:10-15:20 Break
-- 15:20-15:50 Round of presentations by attendees for their own project and guidance on building their own dataset
+- 14:00-14:10 Export and save Gephi's networks 
+- 14:20-15:00 Introduction to the uses of OpenRefine and Generative AI in preparing a Gephi datatset
+- 15:00-15:10 Introduction to Gephi’s plugins (GeoLayout and ExportToEarth) 
+- 15:10-15:20 Hands-on experience of Gephi’s plugins 
+- 15:20-15:30 Break
+- 15:30-15:50 Round of presentations by attendees for their own project and guidance on building their own dataset
 - 15:50-16:00 Q&A and wrapping up 
 
-**Session 3: 8 April 2025**
+**Session 3: 20 October 2025**
 
 - Attendees apply their own dataset in Gephi
+- Continue the conservation of the previous topics
 
 ## License
 
