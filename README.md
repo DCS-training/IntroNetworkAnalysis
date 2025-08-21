@@ -13,7 +13,7 @@ After installing Gephi, please also install the **Gephi plugins**. Go to the Too
 - Tools > Plugins > Available Plugins > GeoLayout
 - Tools > Plugins > Available Plugins > ExportToEarth
 
-If you have any problems downloading Gephi, please contact Brian at twong4@ed.ac.uk.
+If you have any problems downloading Gephi, please contact Brian at t.h.wong-2@sms.ed.ac.uk.
 
 Please also bring a **computer mouse**, as you will not be able to navigate Gephi without it.
 
